@@ -1,6 +1,6 @@
 {
   "name": "propfinderjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to find a deeply nested property of an object by name",
   "main": "index.js",
   "scripts": {
