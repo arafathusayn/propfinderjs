@@ -4,11 +4,13 @@ A library to find a deeply nested property of an object by name
 
 ## Installation
 
-`npm install propfinderjs`
+```
+npm install propfinderjs
+```
 
 ## How to use
 
-```
+```js
 const propFinder = require("propfinderjs")
 
 const object = {
