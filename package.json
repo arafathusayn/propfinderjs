@@ -1,0 +1,25 @@
+{
+  "name": "propfinderjs",
+  "version": "1.0.1",
+  "description": "A library to find a deeply nested property of an object by name",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js",
+    "minify": "uglifyjs --compress --mangle --output index.js -- src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arafathusayn/propfinderjs.git"
+  },
+  "keywords": [
+    "Object",
+    "Property",
+    "Search"
+  ],
+  "author": "Arafat Husayn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arafathusayn/propfinderjs/issues"
+  },
+  "homepage": "https://github.com/arafathusayn/propfinderjs#readme"
+}
